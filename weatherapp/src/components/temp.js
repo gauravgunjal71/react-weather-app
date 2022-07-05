@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./style.css"
 import Weathercard from "./Weathercard";
 
-const API_KEY = "5ec52009cd2282b3760abc221e82c0d9";
+const API_KEY = "INSERT YOUR API KEY HERE";
 
 const Temp = () => {
 
